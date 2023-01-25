@@ -15,7 +15,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
   - [x] [Pao_Ying_Chub.r](R/Pao_Ying_Chub.r) - An interactive rock-paper-scissors game with a bot
 ## Data Transformation
   - [x] [NYC_Flights_2013_Analysis.ipynb](R/NYC_Flights_2013_Analysis-Data_Transformation.ipynb) - Analyzing the `nycflights13` dataset using the `dplyr` package in `R`
-  - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Connecting `R` to the `PostgreSQL` database server using [ElephantSQL](R/ElephantSQL-RPostgreSQL.png), writing some tables, and querying data from the database
+  - [x] [RPostgreSQL.ipynb](R/HW_RPostgreSQL.ipynb) - Using the `RPostgreSQL` package in `R` to connect to the `PostgreSQL` database server hosted by [ElephantSQL](R/ElephantSQL-RPostgreSQL.png)
 ## Data Visualization
   - [x] [chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
 ## Statistics
