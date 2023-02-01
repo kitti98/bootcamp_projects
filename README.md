@@ -20,8 +20,8 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
   - [x] [small_chinook_dataviz.pdf](R/hw_dataviz.pdf) - Creating 5 charts to visualize the data queried from the `Chinook` database using the `ggplot2` package in `R`
 ## Statistics
   - [x] [Titanic_Survival_Prediction.ipynb](R/Titanic_Logistic_Regression.ipynb) - Using the `titanic_train` dataset to predict the survival of Titanic passengers by logistic regression and the `stats` package in `R`
-  - [ ] [linear regression in Excel/Google Sheets]
-  - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in MS Excel
+  - [x] [Insurance Forecasting](Stats/linear_regression_insurance_costs.png) - Running linear regression analysis in Excel to forecast insurance costs from `Medical Cost Personal Datasets`
+  - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in Excel
 ## Intro to Classical Machine Learning
   - [ ] [2-3 models using `caret`] 
 ## Intro to Python Programming
