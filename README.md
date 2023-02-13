@@ -23,7 +23,7 @@ We learned 10 sprints during the 4-month intensive program. These are the projec
   - [x] [Insurance Forecasting](Stats/linear_regression_insurance_costs.png) - Running linear regression analysis in Excel to forecast insurance costs from `Medical Cost Personal Datasets`
   - [x] [A/B Testing with Cookie Cats](Stats/chi_squared_cookie_cats.png) - Using a chi-squared test to analyze the impact on player retention of the `Cookie Cats` mobile game in Excel
 ## Intro to Classical Machine Learning
-  - [x] [Life_Expectancy.ipynb](R/LifeExpectancy_Regression.ipynb) - Machine Learning Model for Life Expectancy Prediction using the `caret` package in `R`
+  - [x] [Life_Expectancy.ipynb](R/LifeExpectancy_Regression.ipynb) - Machine Learning Model for `Life Expectancy` Prediction using the `caret` package in `R`
 ## Intro to Python Programming
   - [x] [Pao_Ying_Chub.ipynb](Python/HW_Intro_to_Python_programming_Pao_Ying_Chub.ipynb) - An interactive rock-paper-scissors game using `Python`
   - [x] [ATM_OOP.ipynb](Python/HW_Intro_to_Python_programming_ATM.ipynb) - An ATM class `(Object-Oriented Programming)` containing at least 5 methods as ATM functions to interact with users.
