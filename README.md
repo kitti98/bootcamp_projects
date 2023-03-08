@@ -2,7 +2,7 @@
 
 **Data science bootcamp with `adToy` - [DataRockie](https://datarockie.com/)**
 
-We learned 10 sprints during the 4-month intensive program. These are the projects/homework I have done in `DataRockie` Bootcamp.
+We learned 10 sprints during the 6-month intensive program. These are the projects/homework I have done in `DataRockie` Bootcamp.
 
 ## Spreadsheets
   - [x] [Dynamic Query](Spreadsheets/Spreadsheets_Dynamic_Query.png) -  Queries that return results dynamically  
